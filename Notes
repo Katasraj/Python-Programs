@@ -1,0 +1,15 @@
+print:
+------
+print is a finction in python3 -- print("Hello")
+print is a statement in python2 -- print "Hello"
+
+floating (/):
+-------------
+python3 -- 43/2 = 21.5
+python2 -- 43/2 = 21
+
+range():
+--------
+returns iterator or generator in python3
+returns list in python2
+
