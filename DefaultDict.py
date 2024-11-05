@@ -35,3 +35,11 @@ print(count)
 for k,v in count.items():
     print(v," times ",k)
 
+print(100*'*')
+
+grouped = defaultdict(list)
+pairs = [('a',1),('b',2),('c',3),('a',1),('b',2),('c',3)]
+for k, v in pairs:
+    grouped[k].append(v)
+    
+print(grouped)
