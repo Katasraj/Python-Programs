@@ -13,3 +13,4 @@ range():
 returns iterator or generator in python3
 returns list in python2
 
+# allure serve reports --> It will convert created json reports to html (reports is directory)
