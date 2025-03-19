@@ -14,3 +14,9 @@ returns iterator or generator in python3
 returns list in python2
 
 # allure serve reports --> It will convert created json reports to html (reports is directory)
+
+#https://platform.openai.com/api-keys
+#This is API key for openai
+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
+
+
